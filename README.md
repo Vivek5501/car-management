@@ -97,3 +97,15 @@ Create vercel.json in the root folder:
 ![alt text]({233C19B4-AA63-4403-8FF1-600A0B0378B7}.png)
 ![alt text]({86CD92A2-8E76-4CAF-BF34-987D8D77B76D}.png)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/6119f174-c748-40c7-98a9-0b80c5573151" alt="" /></td>
+    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/870bb1a3-33b7-443b-add5-dcc1fc81a4c6" alt="" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/ae532c31-ceb8-4414-aae2-735c2b4c40d1" alt="" /></td>
+    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/bf8202a8-6633-49b2-8e26-19f0db1e17ce" alt="" /></td>
+  </tr>
+</table>
+
+
